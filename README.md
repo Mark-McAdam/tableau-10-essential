@@ -1,4 +1,4 @@
-# tableau-10-essential
+# tableau-2020-essential
 
 Notes for myself while I am completing the Tableau 10 essential training through LinkedIn 
 
